@@ -1,0 +1,12 @@
+*.log
+*.pem
+*.key
+*.crt
+*.csr
+
+.env
+
+.vscode/
+.idea/
+
+.DS_Store
