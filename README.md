@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0-green.svg)
+![SSL](https://img.shields.io/badge/SSL-Let's%20Encrypt-orange.svg)
 # Easy Let's Encrypt SSL
 
 A simple script to automatically install, issue, and renew free SSL certificates using Let's Encrypt.
